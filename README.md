@@ -7,6 +7,6 @@ Date: September 29, 2018
 Venue: Workshed – Spintex Road 
 Time: 10am – 5pm  </br  ></br  ></br  >
 
-air_quality.csv is the data and air_quality_toolkit.pdf, an overview and a guide on the content of the dataset.
+"air_quality.csv" is contains the data and "air_quality_toolkit.pdf," an overview and a guide on the content of the dataset.
 
 The data used here is collected from Open Air Quality and the toolkit developed by Dr Pallavi Pant.
