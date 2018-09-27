@@ -3,8 +3,10 @@ Air quality is a growing public health concern in fast developing and urbanising
 
 This datathon is held as an activity for the [Africa Science Week Ghana](http://facebook.com/aswghana) in partnership with the Next Einstein Forum, [Global Lab Network](https://www.facebook.com/GLabNetwork/) and [Workshed](http://www.ourworkshed.com/).  </br  ></br  >
 
-Date: September 29, 2018 
-Venue: Workshed – Spintex Road 
+Date: September 29, 2018
+
+Venue: Workshed – Spintex Road
+
 Time: 10am – 5pm  </br  ></br  ></br  >
 
 "air_quality.csv" contains the data and "air_quality_toolkit.pdf," an overview and a guide on the content of the dataset.
